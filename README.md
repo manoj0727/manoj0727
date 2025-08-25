@@ -1,147 +1,182 @@
-# Hi there, I'm Manoj Kumawat! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer who loves building innovative solutions and contributing to meaningful projects. I enjoy tackling complex problems and turning ideas into reality through clean, efficient code.
-
-- 🔭 Currently working on **cutting-edge web applications**
-- 🌱 Continuously learning **new technologies and best practices**
-- 👯 Looking to collaborate on **open source projects**
-- 💡 Always interested in **innovative tech solutions**
-- ⚡ Fun fact: **I love exploring new technologies and sharing knowledge with the community**
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj0727&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj0727&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manoj%20Kumawat&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj0727&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions;Creating+Impactful+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  </a>
 </div>
+
+## 👨‍💻 About Me
+
+```javascript
+const manoj = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "cloud"],
+    technologies: {
+        frontend: {
+            js: ["React", "Vue", "Next.js", "Angular"],
+            css: ["Tailwind", "Bootstrap", "Material UI", "Styled Components"]
+        },
+        backend: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Django", "Flask", "FastAPI"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        devOps: ["AWS", "Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
+        tools: ["Git", "Postman", "Jira", "Figma", "VS Code"]
+    },
+    currentFocus: "Building scalable applications and exploring cloud architecture",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+## 📊 My GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manoj0727&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manoj0727&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj0727&theme=algolia&hide_border=false" />
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoj0727&theme=algolia" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manoj0727&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manoj0727&theme=algolia" />
+</div>
+
+## 🎯 Current Year Contributions
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manoj0727&theme=algolia" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manoj0727&theme=algolia" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░  48.2%
+TypeScript   8 hrs 15 mins   ████████░░░░░░░░░░░░  31.8%
+Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░  14.5%
+CSS          45 mins         ██░░░░░░░░░░░░░░░░░░   2.9%
+JSON         30 mins         █░░░░░░░░░░░░░░░░░░░   2.0%
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░   0.6%
+```
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manoj0727&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manoj0727&theme=algolia&no-frame=false&column=7&margin-w=15&margin-h=15" />
 </div>
 
-## 📈 Contribution Graph
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj0727&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34C26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
 </div>
 
-## 🌟 Featured Projects
+## 📅 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR #123 in `manoj0727/awesome-project`
+2. 💪 Opened PR #456 in `opensource/contribution`
+3. 🗣 Commented on issue #789 in `community/discussions`
+4. ⭐ Starred `trending/repository`
+5. 🔧 Fixed bug in production deployment
+<!--END_SECTION:activity-->
+
+## 📊 This Week I Spent My Time On
 
 <div align="center">
-  <a href="https://github.com/manoj0727/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj0727&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/manoj0727/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manoj0727&repo=project2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=manoj0727&theme=algolia&hide_border=false&layout=compact" />
+</div>
+
+## 🗂️ Highlighted Projects
+
+<div align="center">
+  <a href="https://github.com/manoj0727/manoj0727">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manoj0727&repo=manoj0727&theme=algolia" />
   </a>
 </div>
 
-## 💼 Professional Experience
+## 📈 GitHub Metrics
 
-- **Full Stack Development**: Building scalable web applications with modern frameworks
-- **API Development**: Creating robust RESTful and GraphQL APIs
-- **Database Design**: Designing efficient database schemas and optimizing queries
-- **Cloud Architecture**: Deploying and managing applications on cloud platforms
-- **Agile Methodologies**: Working in Scrum teams and following best practices
-- **Code Review**: Conducting thorough code reviews and maintaining code quality
+<div align="center">
+  <img src="https://metrics.lecoq.io/manoj0727?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta" />
+</div>
 
-## 🎯 Current Focus
-
-- 🔍 Exploring **AI/ML technologies** and their applications
-- 📚 Deep diving into **microservices architecture**
-- 🌐 Building **scalable distributed systems**
-- 🛡️ Implementing **security best practices**
-- 🚀 Contributing to **open source community**
-
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumawat)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manojkumawat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/manojkumawat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumawat)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/manoj_kumawat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manoj_kumawat)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/manoj-kumawat)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
-## 💡 Quote of the Day
+## 💰 Support My Work
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <a href="https://www.buymeacoffee.com/manojkumawat">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manoj0727&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manoj0727&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   
-  <p>⭐️ From <a href="https://github.com/manoj0727">@manoj0727</a></p>
-  
-  <p>Thank you for visiting my profile! Feel free to reach out for collaborations or just a tech chat! 😊</p>
+  ### Show some ❤️ by starring some of the repositories!
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
