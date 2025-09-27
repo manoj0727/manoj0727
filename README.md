@@ -1,1 +1,1 @@
-# Hi there, I'm Manoj Kumawat 👋
+# Hi there, I'm Manoj Kumawat
