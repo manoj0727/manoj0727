@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+ <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin-bottom: 20px;">
   <a style="text-decoration: none; margin: 0 10px;" target="_blank" href="https://github.com/manoj0727">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=manoj0727.manoj0727&left_color=gray&right_color=blue&left_text=Coders%20visitors" style="height: 30px;">
   </a>
